@@ -21,7 +21,7 @@ define('WP_SITEURL','http://d2tpppar7cl22w.cloudfront.net');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'wordpresstwo');
 
 /** MySQL database username */
 define('DB_USER', 'wordpress');
@@ -30,7 +30,7 @@ define('DB_USER', 'wordpress');
 define('DB_PASSWORD', 'wordpress');
 
 /** MySQL hostname */
-define('DB_HOST', 'wordpress.ckc2oabmnvlr.us-west-2.rds.amazonaws.com:3306');
+define('DB_HOST', 'wordpresstwo.ckc2oabmnvlr.us-west-2.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
