@@ -1,3 +1,3 @@
-file '/srv/www/staging/wp-login.php' do
+file '/srv/www/wordpresstwo/current/wp-login.php' do
     action :delete
 end
